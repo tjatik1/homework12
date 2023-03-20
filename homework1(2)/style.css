@@ -1,0 +1,26 @@
+body{
+    background-image:url('1670523791_58-kartinkin-net-p-venom-kartinka-oboi-67.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    font-size:60px;
+    padding: 10px 15px 15px;
+    margin: 5px 0 20px 10px;
+    color: #fc9700;
+}
+p{
+    border: 5px solid;
+    border-radius: 20px;
+    border-color: #52493d;
+
+    font-size: 25px;
+    padding: 10px 15px;
+    margin: 3% 45% 0 3%;
+    background-color:  #ffeccf;
+    color:#111111;
+}
+
+p:hover{
+    scale: 1.1;
+}
